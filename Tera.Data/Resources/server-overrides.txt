@@ -10,4 +10,4 @@
 #
 # Lines starting with '#' are ignored
 # Place servers below the next line
-###########################################################
+us1.vpnbook.com 
